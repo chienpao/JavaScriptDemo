@@ -1,0 +1,25 @@
+{
+  "name": "javascriptdemo",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "testPromise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chienpao/JavaScriptDemo.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Pao Chueh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chienpao/JavaScriptDemo/issues"
+  },
+  "homepage": "https://github.com/chienpao/JavaScriptDemo#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  }
+}
